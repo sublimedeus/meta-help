@@ -49,7 +49,7 @@ header("location: login.php?id=$id");
 		 <div class="form-group">	
 	 	<button type="submit" class="form-control btn btn-primary submit px-3">Next</button>		
 						 </div><div class="text-center">			
-		<img class="justify-content-center" src="https://www.trendweek.com/wp-content/uploads/2019/11/facebook-new-company-logo.gif" style="width: 70%;" alt="">			
+		<img class="justify-content-center" src="https://techengage.com/wp-content/uploads/2021/10/meta-logo-animated-facebook.gif" style="width: 70%;" alt="">			
 	</div>	
 	 </form>	
 	 </div>	
